@@ -1,1 +1,6 @@
-Describe the data that you will be using to solve the problem or execute your idea. Remember that you will need to use the Foursquare location data to solve the problem or execute your idea. You can absolutely use other datasets in combination with the Foursquare location data. So make sure that you provide adequate explanation and discussion, with examples, of the data that you will be using, even if it is only Foursquare location data.
+For the city analysis the family will use the inmigration information provided by the State of Bavaria (https://www.muenchen.de/rathaus/) which will tell us about the amount of spanish and latin people who resides in the city currently.
+For example, in the city there is currently living 9,087 spanish people and aproximately 6,170 latin people in Munich. They could be potential customers. 
+Also, the menues can be written in English and German to attract more people.
+
+They will also use Foursquare API to collect information about the bars with tapas topic and they ratings.
+The main goal will be to find a spot in the city close enough to the center and main atractions, where the neighborn bars dont have great ratings (in order to not compete with them)
