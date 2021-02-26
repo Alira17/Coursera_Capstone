@@ -1,6 +1,5 @@
-For the city analysis the family will use the inmigration information provided by the State of Bavaria (https://www.muenchen.de/rathaus/) which will tell us about the amount of spanish and latin people who resides in the city currently.
-For example, in the city there is currently living 9,087 spanish people and aproximately 6,170 latin people in Munich. They could be potential customers. 
-Also, the menues can be written in English and German to attract more people.
-
-They will also use Foursquare API to collect information about the bars with tapas topic and they ratings.
-The main goal will be to find a spot in the city close enough to the center and main atractions, where the neighborn bars dont have great ratings (in order to not compete with them)
+For the city analysis the family will use the immigration information provided by the State of Bavaria (https://www.muenchen.de/rathaus/) which will tell us about the amount of Spanish and latin people who resides in the city currently.  
+For example, in the city there is currently living 9,087 Spanish people and approximately 6,170 latin people in Munich. They could be potential customers.   
+Also, the menus can be written in English and German to attract more people.  
+They will also use Foursquare API to collect information about the bars with tapas topic and they ratings.  
+The main goal will be to find a spot in the city close enough to the centre and main attractions, where the neighbours bars don't have great ratings (in order to not compete with them)
